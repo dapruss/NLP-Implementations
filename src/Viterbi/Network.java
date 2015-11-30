@@ -1,4 +1,4 @@
-package hw2;
+package Viterbi;
 
 import java.util.ArrayList;
 import java.util.Arrays;

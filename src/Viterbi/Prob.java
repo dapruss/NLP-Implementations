@@ -1,4 +1,4 @@
-package hw2;
+package Viterbi;
 
 public class Prob {
 

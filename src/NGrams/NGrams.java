@@ -1,4 +1,4 @@
-package hw1;
+package NGrams;
 
 import java.io.File;
 import java.io.FileNotFoundException;
